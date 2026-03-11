@@ -1,5 +1,5 @@
 # Actividad 1 - API Gestión de Estudiantes
-**Nombre:** Mariana Suárez
+**Nombre:** Santiago Caldeorn
 
 Este es un proyecto backend desarrollado con **Java 21** y **Spring Boot** para la gestión de estudiantes. Incluye una API RESTful que permite crear, leer, actualizar y eliminar (CRUD) registros de estudiantes, persistiendo los datos en una base de datos **PostgreSQL**.
 
@@ -56,7 +56,7 @@ La configuración de la base de datos se maneja a través de variables de entorn
 
 1.  **Clonar el repositorio**:
     ```powershell
-    git clone https://github.com/Mariana20209/26_b2_r1.git
+    git clone https://github.com/SantiagoCalderon11/26_b2_r1.git
     cd pi
     ```
 
